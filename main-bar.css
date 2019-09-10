@@ -1,0 +1,39 @@
+.main-bar {
+  display: flex;
+  justify-content: space-between;
+  padding: 20px;
+  border-bottom: 1px solid rgba(46, 62, 72, 0.12);
+}
+
+.navItem-link {
+  font-size: 16px;
+  font-weight: 400;
+  height: 43.9931px;
+  line-height: 0px;
+  margin: 0;
+  padding: 0;
+  width: 123px;
+  height: 44px;
+  display: block;
+}
+
+.navItem-label {
+  font-size: 14px;
+  line-height: 28px;
+  max-width: 323.556px;
+}
+
+.navItem-label .navItem-label1 {
+  color: rgb(0, 162, 199);
+  padding-left: 20px;
+  padding-right: 16px;
+  border-right: 1px solid #e4e9ed;
+  font-weight: 600;
+}
+
+.navItem-label .navItem-label2, .navItem-label3 {
+  font-weight: 600;
+  color: rgb(88, 88, 88);
+  line-height: 2;
+  padding-left: 20px;
+}
