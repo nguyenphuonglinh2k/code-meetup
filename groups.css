@@ -1,0 +1,99 @@
+.section {
+  padding-top: 40px;
+  margin: 0 20px;
+  width: 1060px;
+}
+.text-sectionTitle {
+  display: flex;
+  justify-content: space-between;
+}
+
+.text-sectionTitle .title-left {
+  font-size: 20px;
+  font-weight: 600;
+  line-height: 28px;
+}
+
+.text-sectionTitle .text-right {
+  font-size: 16px;
+  font-weight: 500;
+  line-height: 25.6px;
+  color: rgb(0, 162, 199);
+  padding-bottom: 10px;
+  text-decoration: none;
+  
+}
+
+.informationTitle-add {
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 24px;
+  color: rgb(33, 33, 33);
+}
+
+.borderEvent-link {
+  display: flex;
+}
+
+
+.borderEvent-link .borderItem-groups {
+  text-decoration: none;
+  margin: 20px 0;
+  width: 250px;
+  height: 323px;
+  border: 1px solid #DDD;
+  display: inline-block;
+  border-radius: 7px;
+  box-shadow: 0 1px 1.5px 0 rgba(0, 0, 0, 0.01), 0 1px 1.5px 0 rgba(0, 0, 0, 0.1);
+  margin-right: 20px;
+}
+
+.borderEvent-link .borderItem-groups:hover {
+  box-shadow: 0 2px 3px 0 rgba(0, 0, 0, 0.01), 0 2px 3px 0 rgba(0, 0, 0, 0.19);
+}
+
+
+.borderItem-groups .group-photo {
+  height: 140px;
+  width: 250px;
+  border-top-left-radius: 7px;
+  border-top-right-radius: 7px;
+}
+
+.information {
+  padding: 20px;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  width: 210px;
+  height: 142px;
+}
+
+.information .subject {
+  text-transform: uppercase;
+  color: rgb(88, 88, 88);
+  font-size: 14px;
+  font-weight: 500;
+  line-height: 20.02px;
+}
+
+.information .group-name {
+  color: rgb(33, 33, 33);
+  font-size: 20px;
+  font-weight: 600;
+  line-height: 28px;
+}
+
+.information .number {
+  color: rgb(33, 33, 33);
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 24px;
+}
+
+.information .attendeeNumber {
+  color: rgb(88, 88, 88);
+  font-size: 14px;
+  font-weight: 400;
+  line-height: 20.02px;
+}
