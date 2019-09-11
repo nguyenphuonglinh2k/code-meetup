@@ -1,0 +1,80 @@
+.howMeetupWork {
+  width: 100%;
+  margin-top: 20px;
+  padding: 20px 0;
+  border-top: 1px solid rgba(255, 255, 255, 0.2);
+  background-color: rgb(15, 23, 33);
+  width: 100%;
+}
+
+.howMeetupWork .howMeetupWork-content {
+  margin-left: auto;
+  margin-right: auto;
+  padding-top: 40px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 1060px;
+  box-sizing: border-box;
+}
+
+.howMeetupWork-content-title {
+  font-size: 32px;
+  font-weight: 500;
+  line-height: 38.08px;
+  margin-bottom: 20px;
+  text-align: center;
+  color: white;
+}
+
+.howMeetupWork-content-flex {
+  padding: 20px 0;
+  margin-bottom: 20px;
+  display: flex;
+  justify-content: center;
+}
+
+.howMeetupWork-content-flex .flex {
+  padding-bottom: 20px;
+  margin-bottom: 20px;
+  display: flex;
+}
+
+.howMeetupWork-content-flex .icon-left {
+  width: 71px;
+  height: 72px;
+  padding-right: 20px;
+}
+
+.howMeetupWork-content-flex .text-big {
+  color: white;
+  font-size: 28px;
+  font-weight: 600;
+  line-height: 36.12px;
+}
+
+.howMeetupWork-content-flex .text-small {
+  color: white;
+  font-size: 16px;
+  margin-bottom: 20px;
+  font-weight: 400;
+  line-height: 24px;
+}
+
+.howMeetupWork-content-flex .text-blue {
+  display: flex;
+  color: rgb(0, 162, 199);
+  font-weight: 500;
+  line-height: 24px;
+  text-decoration: none;
+}
+
+.howMeetupWork-content-flex .text-blue .icon {
+  height: 20px;
+  width: 50px;
+  padding-top: 3px;
+}
+
+.howMeetupWork-content-flex .padding-left {
+  padding-left: 20px;
+}
