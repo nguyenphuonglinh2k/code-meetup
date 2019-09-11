@@ -1,0 +1,64 @@
+.getApp {
+  width: 100%;
+  margin-top: 20px;
+  padding: 20px 0;
+  border-top: 1px solid rgba(255, 255, 255, 0.2);
+  background-color: white;
+}
+
+.getApp .getApp-content {
+  margin-left: auto;
+  margin-right: auto;
+  padding-top: 40px;
+  width: 100%;
+  box-sizing: border-box;
+  display: flex;
+  justify-content: center;
+}
+
+.getApp-content .information-left {
+  padding-bottom: 20px;
+  margin-bottom: 20px;
+  display: block;
+  flex-basis: auto;
+}
+
+.getApp-content .information-left .app-title {
+  font-size: 32px;
+  font-weight: 500;
+  line-height: 38.08px;
+}
+
+.getApp-content .information-left .text-blue {
+  display: flex;
+  color: rgb(0, 162, 199);
+  font-weight: 500;
+  line-height: 24px;
+  text-decoration: none;
+}
+
+.getApp-content .information-left .text-blue .icon {
+  height: 20px;
+  width: 50px;
+  padding-top: 3px;
+}
+
+.getApp-content .information-left .linkApp {
+  margin-top: 20px;
+  padding-top: 20px;
+}
+
+.getApp-content .information-left .linkApp .photo {
+  width: 160px;
+  height: 48px;
+  padding-right: 20px;
+}
+
+.getApp-content .photoApp .photo {
+  padding-left: 200px;
+  height: 300px;
+  width: 228px;
+}
+
+
+
