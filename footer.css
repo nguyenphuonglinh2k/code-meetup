@@ -1,0 +1,118 @@
+.footer {
+  width: 100%;
+  color: white;
+  background-color: rgb(53, 62, 72);
+}
+
+.footer .margin {
+  margin-left: auto;
+  margin-right: auto;
+  max-width: 1100px;
+}
+
+.footer .footer-top .section {
+  padding: 40px 0;
+  margin: 0 20px;
+  border-bottom: 1px solid rgba(255, 255, 255, 0.2);
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 24px;
+  color: white;
+  display: block;
+}
+
+.footer .footer-top .section:hover {
+  text-decoration: none;
+}
+
+.footer .footer-top .section-border {
+  padding-top: 40px;
+  padding-bottom: 20px;
+  margin: 0 20px;
+  display: flex;
+  justify-content: space-between;
+}
+
+.footer .section-border .text-item {
+  margin-bottom: 20px;
+  font-size: 16px;
+}
+
+.footer .section-border .text-bold {
+  font-weight: 500;
+  line-height: 24px;
+  margin-bottom: 20px;
+}
+
+.footer .section-border .text-item .text-small {
+  font-weight: 400;
+  line-height: 22px;
+  padding: 0 16px 16px 0;
+  color: rgba(255, 255, 255, 0.7);
+  text-decoration: none;
+  display: block;
+}
+
+.footer .section-border .padding-left {
+  padding-left: 20px;
+}
+
+.footer .section-border .follow .icon-list {
+  margin-bottom: 20px;
+}
+
+.footer .section-border .follow .icon-list .icon-item {
+  height: 24px;
+  width: 24px;
+  padding-right: 20px;
+}
+
+.footer .section-border .follow .select-language {
+  background-color: rgb(15, 23, 33);
+  color: white;
+  border: 1px solid rgb(217, 217, 217);
+  padding: 16px 32px 16px 16px;
+  border-radius: 4px;
+  font-size: 16px;
+  font-weight: 400;
+  height: 55.191px;
+  width: 340px;
+  line-height: 23.2px;
+  margin-bottom: 40px;
+  margin-top: 10px;
+}
+
+.footer .section-border .follow .select-language:hover {
+  border-color: #a2a2a2;
+}
+
+.footer .section-border .follow .linkApp .photo {
+  width: 160px;
+  height: 48px;
+  padding-right: 20px;
+}
+
+.footer .background-bottom {
+  background-color: rgb(47, 54, 63);
+  width: 100%;
+}
+
+.footer-bottom .padding-all {
+  padding: 20px;
+}
+
+.footer-bottom .padding-all .text-small {
+  font-size: 14px;
+  font-weight: 400;
+  line-height: 20.02px;
+  color: white;
+}
+
+.footer-bottom .padding-all .margin-top {
+  margin-top: 20px;
+}
+
+.footer-bottom .padding-all .text-small .padding-left-right {
+  padding: 0 10px;
+}
+
