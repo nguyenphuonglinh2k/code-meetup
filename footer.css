@@ -10,15 +10,19 @@
   max-width: 1100px;
 }
 
-.footer .footer-top .section {
+.footer .footer-top .border-bottom {
   padding: 40px 0;
   margin: 0 20px;
   border-bottom: 1px solid rgba(255, 255, 255, 0.2);
+}
+
+.footer .footer-top .section {
   font-size: 16px;
   font-weight: 400;
   line-height: 24px;
   color: white;
-  display: block;
+  display: inline;
+  margin: 0;
 }
 
 .footer .footer-top .section:hover {
