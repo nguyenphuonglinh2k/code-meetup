@@ -1,0 +1,146 @@
+.categories {
+  padding-top: 40px;
+  margin: 0 20px;
+}
+
+.categories .title-left {
+  font-size: 20px;
+  font-weight: 600;
+  line-height: 28px;
+}
+
+.categories .informationTitle-add {
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 24px;
+  color: rgb(33, 33, 33);
+  padding-bottom: 20px;
+}
+
+.categories .categories-list {
+  width: 1075px;
+  height: 1246px;
+  display: grid;
+  grid-template-columns: auto auto auto auto;
+  margin-right: -16px;
+}
+.categories-list .categories-listItem {
+  padding: 0 16px 16px 0;
+  text-decoration: none;
+}
+
+.categories-list .categories-list-photo {
+  background-size: cover;
+  background-position: 50%;
+  border: 1px solid white;
+  border-radius: 8px;
+  width: 211px;
+  height: 138px;
+  padding: 20px 20px 0 20px;
+}
+
+.categories-list .categories-list-title {
+  color: rgb(33, 33, 33);
+  font-size: 16px;
+  font-weight: 500;
+  line-height: 24px;
+  margin-top: 8px;
+}
+
+.categories-list .photo1 {
+  background-image: url('https://secure.meetupstatic.com/photos/event/2/e/a/7/600_450131943.jpeg');
+}
+
+.categories-list .photo2 {
+  background-image: url("https://secure.meetupstatic.com/photos/event/2/e/a/d/600_450131949.jpeg");
+}
+
+.categories-list .photo3 {
+  background-image: url("https://secure.meetupstatic.com/photos/event/2/e/9/c/600_450131932.jpeg");
+}
+
+.categories-list .photo4 {
+  background-image: url("https://secure.meetupstatic.com/photos/event/2/e/a/e/600_450131950.jpeg");
+}
+
+.categories-list .photo5 {
+  background-image: url("https://secure.meetupstatic.com/photos/event/2/e/a/c/600_450131948.jpeg");
+}
+
+.categories-list .photo6 {
+  background-image: url("https://secure.meetupstatic.com/photos/event/2/e/9/b/600_450131931.jpeg");
+}
+
+.categories-list .photo7 {
+  background-image: url("https://secure.meetupstatic.com/photos/event/2/e/a/a/600_450131946.jpeg");
+}
+
+.categories-list .photo8 {
+  background-image: url("https://secure.meetupstatic.com/photos/event/2/e/a/1/600_450131937.jpeg");
+}
+
+.categories-list .photo9 {
+  background-image: url("https://secure.meetupstatic.com/photos/event/2/e/a/f/600_450131951.jpeg");
+}
+
+.categories-list .photo10 {
+  background-image: url("https://secure.meetupstatic.com/photos/event/2/e/a/3/600_450131939.jpeg");
+}
+
+.categories-list .photo11 {
+  background-image: url("https://secure.meetupstatic.com/photos/event/2/e/a/6/600_450131942.jpeg");
+}
+
+.categories-list .photo12 {
+  background-image: url("https://secure.meetupstatic.com/photos/event/2/e/a/5/600_450131941.jpeg");
+}
+
+.categories-list .photo13 {
+  background-image: url("https://secure.meetupstatic.com/photos/event/2/e/a/4/600_450131940.jpeg");
+}
+
+.categories-list .photo14 {
+  background-image: url("https://secure.meetupstatic.com/photos/event/4/8/3/f/600_450858495.jpeg");
+}
+
+.categories-list .photo15 {
+  background-image: url("https://secure.meetupstatic.com/photos/event/2/e/a/2/600_450131938.jpeg");
+}
+
+.categories-list .photo16 {
+  background-image: url("https://secure.meetupstatic.com/photos/event/2/e/9/5/600_450131925.jpeg");
+}
+
+.categories-list .photo17 {
+  background-image: url("https://secure.meetupstatic.com/photos/event/2/e/8/8/600_450131912.jpeg");
+}
+
+.categories-list .photo18 {
+  background-image: url("https://secure.meetupstatic.com/photos/event/2/e/9/6/600_450131926.jpeg");
+}
+
+.categories-list .photo19 {
+  background-image: url("https://secure.meetupstatic.com/photos/event/2/e/9/a/600_450131930.jpeg");
+}
+
+.categories-list .photo20 {
+  background-image: url("https://secure.meetupstatic.com/photos/event/2/e/a/9/600_450131945.jpeg");
+}
+
+.categories-list .photo21 {
+  background-image: url("https://secure.meetupstatic.com/photos/event/2/e/9/9/600_450131929.jpeg");
+}
+
+.categories-list .photo22 {
+  background-image:  url("https://secure.meetupstatic.com/photos/event/2/e/9/e/600_450131934.jpeg");
+}
+
+.categories-list .photo23 {
+  background-image: url("https://secure.meetupstatic.com/photos/event/2/e/a/b/600_450131947.jpeg");
+}
+
+.categories-list .photo24 {
+  background-image: url("https://secure.meetupstatic.com/photos/event/2/e/9/7/600_450131927.jpeg");
+}
+
+
