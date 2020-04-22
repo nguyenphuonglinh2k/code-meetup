@@ -30,12 +30,12 @@
 }
 
 .categories-list .categories-list-photo {
+  width: 211px;
+  height: 138px;
   background-size: cover;
   background-position: 50%;
   border: 1px solid white;
   border-radius: 8px;
-  width: 211px;
-  height: 138px;
   padding: 20px 20px 0 20px;
 }
 
