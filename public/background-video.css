@@ -60,16 +60,17 @@ body {
 .background-video .bounds-inf .but-click {
   border-radius: 4px;
   padding: 12px 122px;
+  line-height: 1.6;
   text-transform: capitalize;
   background-color: #f13a59;
   text-decoration: none;
   color: white;
-  line-height: 1.6;
 }
 
 .background-video .bounds-inf .but-click:hover {
   background-color: #c80000;
 }
+
 
 
 
